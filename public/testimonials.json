@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Beatriz Alvizu",
+    "description": "Increíble el trato y la amabilidad de cada uno de los que allí trabajan. mi proceso fue excelente.",
+    "ranking": 5
+  },
+  {
+    "id": 2,
+    "name": "Lady Marin",
+    "description": "Las personas que trabajan allí son super profesionales y amables, los conozco hace más de tres años y me ha ido genial.",
+    "ranking": 5
+  },
+  {
+    "id": 3,
+    "name": "Jhoana Monsalve",
+    "description": "Me fue muy bien en mi tratamiento, fue muy completo y más que una dieta, me enseñaron a alimentarme mejor, es una inversión que vale la pena, porque los cambios se notan.",
+    "ranking": 5
+  },
+  {
+    "id": 4,
+    "name": "Leidy Hernández",
+    "description": "Recomendadisimos. Excelentes profesionales, siempre atentos a tu proceso.",
+    "ranking": 5
+  },
+  {
+    "id": 5,
+    "name": "Liseth Morales",
+    "description": "Una experiencia muy agradable respecto al proceso de depilación, precios cómodos, muy buena atención, instalaciones adecuadas, varios métodos de pago. En conclusión, una muy buena opción. Recomendado.",
+    "ranking": 4
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "facial_cleanings": [
+    {
+      "id": 1,
+      "name": "Limpieza facial básica",
+      "image": "./limpieza-facial-basica.jpg",
+      "description": "Procedimiento de microdermoabrasión con punta de diamante y mascarilla de acuerdo al tipo de piel. Limpieza, tonificación y exfoliación.",
+      "time": "Sesión única"
+    },
+    {
+      "id": 2,
+      "name": "Limpieza facial especializada",
+      "image": "./limpliaza-facial-especializada.png",
+      "description": "Con nuestro novedoso sistema Hydrabeauty, limpiamos, tonificamos, exfoliamos, hacemos ozonoterapia, extracción manual de comedones y microdermoabrasión de alta frecuencia. Posteriormente electroporamos el núcleo del tratamiento dependiendo del tipo de piel y necesidad del paciente. Se realiza masaje facial y mascarilla.",
+      "time": "Sesión única"
+    },
+    {
+      "id": 3,
+      "name": "Limpieza para piel acneica",
+      "image": "./limpieza-para-piel-acneica.jpg",
+      "description": "Limpiamos, tonificamos, exfoliamos, realizamos ozonoterapia, extracción manual de comedones, pápulas o pústulas, microdermoabrasión de alta frecuencia. Luego electroporamos el núcleo del tratamiento dependiendo del tipo de piel y necesidad del paciente, finalizando con mascarilla calmante y ultrasonido con terapia LED para acné.",
+      "time": "Sesión única"
+    }
+  ],
+  "special_packages": [
+    {
+      "id": 4,
+      "name": "Special Healthy Code Skincare",
+      "image": "./special-healthy-code-skincare.jpg",
+      "description": "Con este tratamiento disfrutarás de 2 faciales especializados, 2 sesiones de dermapen con vitaminas, 2 de radiofrecuencia, 1 de plasma rico en plaquetas, un peeling suave hidratante, 2 sesiones de láser facial rejuvenecedor, una hidratación especial con vitamina C y estimulación con máscara LED.",
+      "time": "Sesión única"
+    },
+    {
+      "id": 5,
+      "name": "Young Skin",
+      "image": "./young-skin.jpg",
+      "description": "Con este tratamiento disfrutarás de una limpieza básica con tecnología Hydrabeauty, una sesión de radiofrecuencia y un drenaje linfático facial con mascarilla antioxidante.",
+      "time": "Sesión única"
+    },
+    {
+      "id": 6,
+      "name": "Revitalize Skin",
+      "image": "./revitalize-skin.jpg",
+      "description": "Con este tratamiento disfrutarás de 2 faciales especializados, 1 dermapen con vitaminas y 2 sesiones de radiofrecuencia tripolar.",
+      "time": "Sesión única"
+    },
+    {
+      "id": 7,
+      "name": "Pieles hiperpigmentadas",
+      "image": "./pieles-hiperpigmentadas.jpg",
+      "description": "Con este tratamiento disfrutarás de 1 facial especializado, 2 peelings faciales, 2 sesiones de dermapen con plasma rico en plaquetas, 2 sesiones de láser rejuvenecedor facial y 2 sesiones de radiofrecuencia.",
+      "time": "Sesión única"
+    },
+    {
+      "id": 8,
+      "name": "Malla para Lifting Facial",
+      "image": "./lifting-facial.jpg",
+      "description": "Este tratamiento no invasivo utiliza 30 hilos de colágeno para tensar y rejuvenecer la piel del rostro. Los hilos estimulan la producción natural de colágeno, mejorando la firmeza y definiendo el contorno facial.",
+      "time": "Sesión única"
+    }
+  ],
+  "non_invasive_reducing_treatments": [
+    {
+      "id": 9,
+      "name": "Lipo Sin Cirugía",
+      "image": "./lipo-sin-cirugia.jpg",
+      "description": "Reduce medidas y ayuda a la pérdida de peso en abdomen, espalda y oblicuos, esculpiendo tu figura de manera efectiva y no invasiva.",
+      "time": "8 semanas"
+    },
+    {
+      "id": 10,
+      "name": "Silueta Perfecta",
+      "image": "./silueta-perfecta.jpg",
+      "description": "Diseñado específicamente para modelar y tonificar el área de la cintura, este tratamiento combina técnicas innovadoras y productos de alta calidad para ofrecerte resultados visibles y duraderos.",
+      "time": "6 semanas"
+    },
+    {
+      "id": 11,
+      "name": "Lipo Reduce",
+      "image": "./lipo-reduce.jpg",
+      "description": "Tratamiento exclusivo de Healthy Code, enfocado a pacientes que quieren reducir los gorditos en las zonas del abdomen y oblicuos.",
+      "time": "6 semanas"
+    },
+    {
+      "id": 12,
+      "name": "Abdomen de Acero",
+      "image": "./abdomen-de-acero.jpg",
+      "description": "Tratamiento diseñado para definir, tonificar y fortalecer el abdomen, logrando una silueta más firme y atractiva de manera efectiva.",
+      "time": "4 semanas"
+    },
+    {
+      "id": 13,
+      "name": "Glúteos UP!",
+      "image": "./gluteos-up.jpg",
+      "description": "Tratamiento exclusivo que tonifica y da firmeza a la zona de los glúteos, realzando tu figura y brindando resultados visibles y duraderos.",
+      "time": "6 semanas"
+    },
+    {
+      "id": 14,
+      "name": "Good Bye Celulitis",
+      "image": "./good-bye-celulitis.jpg",
+      "description": "Tratamiento exclusivo diseñado para reducir la celulitis, ofreciendo resultados sorprendentes y una piel más suave y uniforme.",
+      "time": "6 semanas"
+    }
+  ]
+}
