@@ -18,19 +18,7 @@ export default function Navbar() {
           <Link href="/">
             <div className="flex-shrink-0">
               {/* Reemplaza esto con tu logo */}
-              <svg
-                className="h-8 w-8 text-blue-500"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  d="M13 10V3L4 14h7v7l9-11h-7z"
-                />
-              </svg>
+              <img src="/logo.png" alt="" className="w-10"/>
             </div>
           </Link>
           <div className="hidden sm:flex space-x-4">
